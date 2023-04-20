@@ -1,0 +1,97 @@
+.card {
+    width: 300px;
+    height: 200px;
+  
+    padding: 5px;
+    background-color: white;
+  }
+  
+  .gre {
+    background-color: green;
+  }
+  
+  .ree {
+    background-color: red;
+  }
+  
+  .message {
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  .content {
+    color: grey;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .gr {
+    color: green;
+    font-size: 25px;
+  }
+  
+  .re {
+    color: red;
+    font-size: 25px;
+  }
+  
+  .green {
+    border-top: 14px solid green;
+    border-bottom: 7px solid green;
+  }
+  
+  .red {
+    border-top: 14px solid red;
+    border-bottom: 7px solid red;
+  }
+  
+  .cover {
+    border: 0.5px solid rgb(209, 207, 207);
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    height: 80%;
+  }
+  
+  .line {
+    width: 30px;
+    height: 4px;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  
+  .tab1 {
+    border: 2px solid grey;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 500px;
+    font-size: 14px;
+    font-weight: 500;
+    color: grey;
+    margin-right: 15px;
+  }
+  
+  .tab2 {
+    width: fit-content;
+    padding: 5px;
+    border-radius: 500px;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(247, 244, 244);
+  }
+  
+  .tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .g {
+    background-color: green;
+  }
+  
+  .r {
+    background-color: red;
+  }
+  
